@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javawebchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-10T14:32:47.425438554Z"
+    description: A Helm chart for Kubernetes
+    digest: 2cf608b9a8e28c17a309306b06e059866ef44713ad7ad90710e7aba72d3be6ba
+    name: javawebchart
+    type: application
+    urls:
+    - https://lavanyalavanya14.github.io/helmrepo/javawebchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-10T14:32:47.424391558Z"
