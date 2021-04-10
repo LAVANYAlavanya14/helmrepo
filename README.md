@@ -11,7 +11,11 @@ Next step
 create a index.yaml file - so it has chart name and all the details required
 by using this cmd
 $helm repo index helmrepo --url <githubpageurl of this repo>
-  
+
+Next step
+Move to the helmrepo directory to commit
+$cd helmrepo   # which is the repo name of this 
+
 Next step
 After creating index.yaml file now move files to working area to staging area
 $git add .
